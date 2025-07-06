@@ -139,7 +139,7 @@
 
 ## 👨‍🏫 Instructor  
 **Muzaffar Ali Kalwar**  
-[🔗 YouTube](https://youtube.com/@muzaffaritacademy) | [🔗 LinkedIn](https://www.linkedin.com/in/muzaffar-ali-0b3939315) | [🔗 GitHub](https://github.com/MuzaffarAli13)
+[🔗 YouTube](https://youtube.com/@muzaffaritacademy) | [🔗 LinkedIn]([https://www.linkedin.com/in/muzaffar-ali-0b3939315](https://www.linkedin.com/in/mrmuzaffar/)) | [🔗 GitHub](https://github.com/MuzaffarAli13)
 
 ---
 
