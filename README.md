@@ -74,7 +74,7 @@
 | 7 | getStaticProps & getServerSideProps |
 | 8 | API Routes in Next.js |
 | 9 | Deploy Project on Vercel, Env Variables |
-| 10 | SEO with Head, Image Optimization, Error Pages |
+| 10 | SEO with Head, Image Optimization, Error Handling |
 
 ---
 
